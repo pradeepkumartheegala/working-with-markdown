@@ -67,7 +67,7 @@ hello
 
 # Displaying Hello world
 
-![Hello](https://github.com/pradeepkumartheegala/working-with-markdown/blob/master/Hello%20world.png"Hello World")
+![Hello](https://github.com/pradeepkumartheegala/working-with-markdown/blob/master/Hello%20world.png "Hello World")
 
 
 ## Displaying Images
