@@ -58,6 +58,13 @@ After the opening backtics, put the syntax type, e.g. JavaScript or DOS (for Win
 ```PowerShell
 dir
 ```
+```Java
+import java.io.*
+This is a java program
+```
+# Heading 1
+hello
+
 
 ## Displaying Images
 
@@ -88,11 +95,11 @@ If editing online in GitHub, scroll up to the top of the edit box, and click "Pr
 
 Learn more by checking out [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown") and other resources. 
 
-##  About
+##  Information about me
 
-Denise Case
+- Pradeepkumar
+- age 23
 
-dcase@nwmissouri.edu
 
 ## New Section 
 
